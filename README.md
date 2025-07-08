@@ -1,6 +1,7 @@
   Ferns N Petals - Sales Analysis Dashboard
 
 This project presents a comprehensive **Sales Analysis Dashboard** for **Ferns N Petals (FNP)**, an online gifting and flower delivery platform. The dashboard provides key insights into sales performance, customer behavior, seasonal trends, and product/category-level performance using interactive visuals.
+
  📊 Dashboard Highlights
 
 - **Total Orders**: 1,000  
@@ -18,7 +19,7 @@ This project presents a comprehensive **Sales Analysis Dashboard** for **Ferns N
 
  🛠️ Tools & Technologies Used
 
-- **Excel / CSV**: As a data source (assumed)
-- **DAX**: For calculated fields (e.g., average spend, delivery time)
+- **Excel / CSV**: As a data source 
+- **DAX**: For calculated fields 
 
 
